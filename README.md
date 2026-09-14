@@ -1,14 +1,18 @@
 # Vanilla Team Glow
 
+<div align="center">
+
+**See your teammates through walls - in their team's color.**
+  
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-blue)
 ![Forge](https://img.shields.io/badge/Forge-47.4.10-blue)
 
-**See your teammates through walls - in their team's color.**
-
 Ever lost your squad in a chaotic UHC, SMP, team PvP match, or even a MilSim? Vanilla Team Glow makes every player on your vanilla scoreboard team glow with an outline in their team's exact color, visible right through terrain.
 
 Built for **Forge**, because apparently nobody else got around to it.
+
+</div>
 
 ## Features
 
