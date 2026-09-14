@@ -49,7 +49,7 @@ That's it. Anyone on your team now glows red (or whatever color you set) for you
 ## Building from source
 
 ```bash
-git clone https://github.com/iliDorito/Vanilla-Team-Glow.git
+git clone https://github.com/lilDorito/Vanilla-Team-Glow.git
 cd Vanilla-Team-Glow
 ./gradlew build
 ```
