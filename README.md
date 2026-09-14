@@ -58,7 +58,7 @@ Built jar lands in `build/libs/`.
 
 ## License
 
-MIT - do whatever you want with it. See [LICENSE.txt](LICENSE.txt).
+MIT - do whatever you want with it. See [LICENSE](LICENSE).
 
 ---
 
