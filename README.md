@@ -4,9 +4,9 @@
 
 **See your teammates through walls - in their team's color.**
   
-![License](https://img.shields.io/badge/License-MIT-green)
-![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-blue)
-![Forge](https://img.shields.io/badge/Forge-47.4.10-blue)
+[![License: GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-orange.svg)](LICENSE)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-green.svg)](https://minecraft.net)
+[![Forge](https://img.shields.io/badge/Forge-47.2.0-blue.svg)](https://files.minecraftforge.net/)
 
 Ever lost your squad in a chaotic UHC, SMP, team PvP match, or even a MilSim? Vanilla Team Glow makes every player on your vanilla scoreboard team glow with an outline in their team's exact color, visible right through terrain.
 
@@ -32,7 +32,7 @@ Built for **Forge**, because apparently nobody else got around to it.
 2. Drop it in your `.minecraft/mods` folder
 3. Launch Forge 1.20.1 and go
 
-> ⚠️ Client-side mod - everyone who wants to see the glow needs it installed. It won't glow for players without the jar.
+> Client-side mod - everyone who wants to see the glow needs it installed. It won't glow for players without the jar.
 
 ## Usage
 
