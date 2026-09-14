@@ -4,7 +4,7 @@
 
 **See your teammates through walls - in their team's color.**
   
-[![License: GPL-3.0](https://img.shields.io/badge/License-GPL%203.0-orange.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-GPL%203.0-orange.svg)](LICENSE)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-green.svg)](https://minecraft.net)
 [![Forge](https://img.shields.io/badge/Forge-47.2.0-blue.svg)](https://files.minecraftforge.net/)
 
