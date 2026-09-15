@@ -7,6 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-GPL%203.0-orange.svg)](LICENSE)
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-green.svg)](https://minecraft.net)
 [![Forge](https://img.shields.io/badge/Forge-47.2.0-blue.svg)](https://files.minecraftforge.net/)
+[![CurseForge](https://shields.io)](https://www.curseforge.com/minecraft/mc-mods/vanilla-team-glow)
 
 Ever lost your squad in a chaotic UHC, SMP, team PvP match, or even a MilSim? Vanilla Team Glow makes every player on your vanilla scoreboard team glow with an outline in their team's exact color, visible right through terrain.
 
